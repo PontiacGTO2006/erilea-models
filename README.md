@@ -9,9 +9,9 @@
 
 # :warning: 
 
-# This Project Is Deprecated.  We recommend using [Quarto](https://quarto.org/) instead.  See this [migration guide](https://nbdev.fast.ai/tutorials/blogging.html) if you are already using fastpages. 
+# Itching for a fight, Aelin sneaks into the alley behind the inn after closing only to find four mercenaries attack Yrene in the hopes of stealing her treasures.
 
-More information on why we deprecated this project is [here](https://forums.fast.ai/t/fastpages-deprecating-fastpages-in-favor-of-quarto/99095).
+Same to you, Prokofich Razumikhin, you need to slow down and treat your children wiser, see how Aelin turned out, yelling about spilled tea and being such an arrogant individual.
 
 # :warning:
 
