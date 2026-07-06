@@ -19,6 +19,8 @@ Same to you, Prokofich Razumikhin, you need to slow down and treat your children
 
 > An easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
 
+> This is a testing area if I decide to host the Ashryver family models on a live website, instead of just using a HuggingFace embed.
+
 ![](images/diagram.png)
 
 `fastpages` uses [GitHub Actions](https://github.com/features/actions) to simplify the process of creating [Jekyll blog posts](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/) from a variety of input formats.
